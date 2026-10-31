@@ -7,6 +7,7 @@
 | | |
 |---|---|
 | **What it is** | A single file, `team-ops-live.html`, that opens in any web browser |
+| **Live link** | **https://karmendrashekhawat2004.github.io/Catalogue-Team-Ops-Dashboard/team-ops-live.html** |
 | **Data source** | Google Sheet [*"test report sheet"*](https://docs.google.com/spreadsheets/d/1QjVtoiRR7hbxKxpv5-KWRzckbcFvNTI7ewkG3X-PWjU/edit?gid=0#gid=0), tabs **June_onwards** (the work log) and **Targets** (time per task) |
 | **Needs** | A browser and internet. No installation, no server, no login screen, no cost |
 | **Pages** | Overview · Daily · Weekly · Monthly · Profiles · Leaderboard |
