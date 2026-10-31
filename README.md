@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **What it is** | A single file, `team-ops-live.html`, that opens in any web browser |
-| **Data source** | Google Sheet *"test report sheet"*, tabs **June_onwards** (the work log) and **Targets** (time per task) |
+| **Data source** | Google Sheet [*"test report sheet"*](https://docs.google.com/spreadsheets/d/1QjVtoiRR7hbxKxpv5-KWRzckbcFvNTI7ewkG3X-PWjU/edit?gid=0#gid=0), tabs **June_onwards** (the work log) and **Targets** (time per task) |
 | **Needs** | A browser and internet. No installation, no server, no login screen, no cost |
 | **Pages** | Overview · Daily · Weekly · Monthly · Profiles · Leaderboard |
 | **Built with** | HTML, CSS and JavaScript, plus two free libraries: Chart.js (charts) and Papa Parse (CSV files) |
@@ -132,6 +132,8 @@ export** of the June_onwards tab, or paste an **Apps Script web-app address** (a
 ## 3. How the numbers are calculated
 
 ### 3.1 The two tabs it reads
+
+The sheet: **[test report sheet (open in Google Sheets)](https://docs.google.com/spreadsheets/d/1QjVtoiRR7hbxKxpv5-KWRzckbcFvNTI7ewkG3X-PWjU/edit?gid=0#gid=0)**
 
 **June_onwards** (one row per piece of work):
 
@@ -469,7 +471,7 @@ What changed, only in the look, not in any number:
   repository is **private** for that reason; do not make it public.
 * **Nothing is stored.** No database, no cookies, no tracking. Closing the tab clears everything.
 * **Internet needed** for live data. Without it, the saved sample (15–17 June) is shown, clearly labelled.
-* **One sheet.** The sheet and tab names are written in the code (section 5.1).
+* **One sheet.** The sheet and tab names are written in the code (section 5.1). Link: [test report sheet](https://docs.google.com/spreadsheets/d/1QjVtoiRR7hbxKxpv5-KWRzckbcFvNTI7ewkG3X-PWjU/edit?gid=0#gid=0).
 
 ---
 
